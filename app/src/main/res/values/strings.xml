@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="textStar1">Quick Delivery At Your\nDoorstep</string>
+    <string name="textStart2">Enjoy quick pick-up and delivery to \nyour destination</string>
+    <string name="textStart3">Flexible Payment</string>
+    <string name="textStart4">Different modes of payment either \nbefore and after delivery without \nyour destination</string>
+    <string name="textStart5">Real-time Tracking</string>
+    <string name="textStart6">Track your packages/items from the \ncomfort of your home till final destination</string>
+    <string name="btn_text1">Next</string>
+    <string name="btn_text2">Skip</string>
+
+</resources>
